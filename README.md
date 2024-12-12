@@ -51,7 +51,7 @@ We thank Gerhard Hiermann to provide us the code from the paper [A polynomial-ti
 ![](./visualization/movie_numVeh300_09-10.gif)
 
 
-**This respository only contains script files while the [working repository](https://github.com/tumBAIS/ML-CO-pipeline-AMoD-control) also contains the raw data, input files, and result files.**
+**This repository only contains script files while the [working repository](https://github.com/tumBAIS/ML-CO-pipeline-AMoD-control) also contains the raw data, input files, and result files.**
 
 
 The structure of the repository is as follows:
