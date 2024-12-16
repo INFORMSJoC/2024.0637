@@ -1,6 +1,3 @@
-# 2024.0637
-
-
 [![INFORMS Journal on Computing Logo](https://INFORMSJoC.github.io/logos/INFORMS_Journal_on_Computing_Header.jpg)](https://pubsonline.informs.org/journal/ijoc)
 
 # Learning-based Online Optimization for Autonomous Mobility-on-Demand Fleet Control
@@ -11,8 +8,9 @@ Computing](https://pubsonline.informs.org/journal/ijoc) under the [MIT License](
 The software and data in this repository are a snapshot of the software and data
 that were used in the research reported on in the paper 
 [Learning-based Online Optimization for Autonomous Mobility-on-Demand Fleet Control](https://doi.org/10.1287/ijoc.2024.0637) by K.Jungel, A. Parmentier, M. Schiffer, and T. Vidal. 
+
 The snapshot is based on 
-[Github/ML-CO-pipeline-AMoD-control](https://github.com/tumBAIS/ML-CO-pipeline-AMoD-control) 
+[GitHub/ML-CO-pipeline-AMoD-control](https://github.com/tumBAIS/ML-CO-pipeline-AMoD-control) 
 in the development repository. 
 
 ## Cite
